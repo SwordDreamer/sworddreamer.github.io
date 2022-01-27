@@ -1,0 +1,16 @@
+body {
+    background-color: rgba(194, 187, 187, 0.801);
+    color: #032fc0;
+    margin: 100px 30px;
+}
+
+
+#personalPhoto {
+    border-radius: 100%;
+    border: 10px;
+}
+
+.topics, .principal{
+    font-weight: bold;
+    color: black
+}
